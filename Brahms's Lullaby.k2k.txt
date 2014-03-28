@@ -1,0 +1,12 @@
+a4 a4 c5
+a4 a4 c5
+a4 c5 f5 e5 d5 d5 c5
+g4 a4 a4m g4
+g4 a4 a4m
+g4 a4m e5 d5 c5 e5 f5
+f4 f4 f5
+d5 a4m c5
+a4 f4 a4m c5 d5 a4-c5
+f4 f4 f5
+d5 a4m c5
+a4 f4 a4m c5-a4m-a4 g4 f4

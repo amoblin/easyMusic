@@ -1,7 +1,16 @@
-#+TITLE: README
+#+TITLE: Piano Keyboard to Computer Keyboard
 #+AUTHOR: amoblin
 #+EMAIL: amoblin@gmail.com
 #+DATE: 2014-03-27 19:16:02
 #+OPTIONS: ^:{}
 
-* Piano Keyboard to Computer Keyboard
+* 目前收录的乐谱
+- 生日快乐歌
+- 勃拉姆斯摇篮曲
+- 德沃夏克-新世界交响曲
+- 欢乐颂
+
+* 接下来要录入的
+- 春江花月夜
+- 童年
+- 天空之城

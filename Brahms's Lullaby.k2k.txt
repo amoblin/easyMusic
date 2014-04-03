@@ -1,12 +1,12 @@
-a4 a4 c5
-a4 a4 c5
-a4 c5 f5 e5 d5 d5 c5
-g4 a4 a4m g4
-g4 a4 a4m
-g4 a4m e5 d5 c5 e5 f5
-f4 f4 f5
-d5 a4m c5
-a4 f4 a4m c5 d5 a4-c5
-f4 f4 f5
-d5 a4m c5
-a4 f4 a4m c5-a4m-a4 g4 f4
+A4 A4 C5
+A4 A4 C5
+A4 C5 F5 E5 D5 D5 C5
+G4 A4 A4m G4
+G4 A4 A4m
+G4 A4m E5 D5 C5 E5 F5
+F4 F4 F5
+D5 A4m C5
+A4 F4 A4m C5 D5 A4-C5
+F4 F4 F5
+D5 A4m C5
+A4 F4 A4m C5-A4m-A4 G4 F4

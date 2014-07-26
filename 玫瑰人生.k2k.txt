@@ -1,27 +1,27 @@
- c5 b4 a4 g4 e4 c5
- b4 a4 g4 e4 c4 b4
- a4 g4 e4 b3 c4 b4
- a4 g4
+ C5 B4 A4 G4 E4 C5
+ B4 A4 G4 E4 C4 B4
+ A4 G4 E4 B3 C4 B4
+ A4 G4
 
- d5 c5 b4 a4 f4 c5
- b4 a4 g4 f4 d4 b4
- a4 g4 f4 c4m d4 b4
- a4 g4
+ D5 C5 B4 A4 F4 C5
+ B4 A4 G4 F4 D4 B4
+ A4 G4 F4 C4m D4 B4
+ A4 G4
 
- c5 b4 a4 g4 e4 c5
- b4 a4 g4 e4 c4 b4
- a4 g4 e4 b3 c4 c5
- c5 c5
+ C5 B4 A4 G4 E4 C5
+ B4 A4 G4 E4 C4 B4
+ A4 G4 E4 B3 C4 C5
+ C5 C5
 
- d5 d5 c5 d5 d5 c5
- d5 d5 c5 g4
- d5 d5 c5 d5 d5 d5 c5
- d5 d5 c5 e5 d5
+ D5 D5 C5 D5 D5 C5
+ D5 D5 C5 G4
+ D5 D5 C5 D5 D5 D5 C5
+ D5 D5 C5 E5 D5
 
- c5 b4 a4 g4 e4 c5
- b4 a4 g4 e4 c4 b4
- a4 g4 a4 b4 c5
+ C5 B4 A4 G4 E4 C5
+ B4 A4 G4 E4 C4 B4
+ A4 G4 A4 B4 C5
 
- c5 b4 a4 g4 e4 c5
- b4 a4 g4 e4 c4 b4
- a4 g4 a4 b5 c5
+ C5 B4 A4 G4 E4 C5
+ B4 A4 G4 E4 C4 B4
+ A4 G4 A4 B5 C5

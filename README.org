@@ -10,7 +10,12 @@
 
 [[https://itunes.apple.com/us/app/sha-gua-yan-zou-jia/id848880040?ls=1&mt=8][App Store下载]]
 
+[[https://itunes.apple.com/cn/app/sha-gua-yan-zou-jia/id881247831?mt=12][Mac App Store下载]]
+
 * 目前收录的乐谱
+- 平凡之路
+- 瑶族舞曲
+- 水木年华-启程
 - 生日快乐歌
 - 勃拉姆斯摇篮曲
 - 德沃夏克-新世界交响曲

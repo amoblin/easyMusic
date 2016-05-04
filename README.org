@@ -4,31 +4,10 @@
 #+DATE: 2014-03-27 19:16:02
 #+OPTIONS: ^:{}
 
-傻瓜演奏家 -- 连接上蓝牙键盘后，按照屏幕内容按键，即可演奏出美妙的乐曲
-
-本地创作乐曲以后，通过iTunes导出，向本仓库发起pull request，让大家都能演奏你的乐曲
+演奏家 -- 根据节奏点击，即可演奏出美妙的乐曲
 
 [[https://itunes.apple.com/us/app/sha-gua-yan-zou-jia/id848880040?ls=1&mt=8][App Store下载]]
 
 [[https://itunes.apple.com/cn/app/sha-gua-yan-zou-jia/id881247831?mt=12][Mac App Store下载]]
 
-* 目前收录的乐谱
-- 平凡之路
-- 瑶族舞曲
-- 水木年华-启程
-- 生日快乐歌
-- 勃拉姆斯摇篮曲
-- 德沃夏克-新世界交响曲
-- 欢乐颂
-- 天空之城
-- Kiss The Rain
-- 月光下的凤尾竹
-- 班得瑞-童年
-- 送别
-- Do Re Mi(键盘对应关系)
-- 两只老虎
-- 刘若英-知道不知道
-
-* 接下来要录入的
-- 春江花月夜
-- 卡农
+微信群：[[1.jpg]]
